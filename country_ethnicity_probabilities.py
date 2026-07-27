@@ -225,7 +225,7 @@ EECACOUNTRY_ETHNICITY_PROB = {
 # -------------------------
 
 "AUS":{"Caucasian":70,"Asian":15,"African":10,"Seasian":5},
-"NZL":{"Caucasian":60,"Asian":20,"African":10,"Seasian":10},
+"NZL":{"Caucasian":70,"Asian":15,"African":5,"Seasian":10},
 "PNG":{"Asian":60,"Seasian":40},
 "FIJ":{"Asian":50,"Seasian":40,"African":10},
 "SOL":{"Seasian":80,"Asian":20},
