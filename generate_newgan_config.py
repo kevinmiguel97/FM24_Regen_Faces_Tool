@@ -1,4 +1,4 @@
-import re
+import re002205818
 import sys
 import random
 import shutil
@@ -8,7 +8,7 @@ from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
 
-from FM24_Regen_Faces_Tool.country_ethnicity_probabilities import COUNTRY_ETHNICITY_PROB
+from country_ethnicity_probabilities import COUNTRY_ETHNICITY_PROB
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 CONFIG_FILENAME = "config.xml"

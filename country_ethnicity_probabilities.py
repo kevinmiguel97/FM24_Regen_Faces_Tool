@@ -1,4 +1,4 @@
-COUNTRY_ETHNICITY_PROB = {
+EECACOUNTRY_ETHNICITY_PROB = {
 
 # -------------------------
 # Western Europe
@@ -244,7 +244,7 @@ COUNTRY_ETHNICITY_PROB = {
 # ---------------------------
 
 "BAS":{"SpanMed":100},
-"CTA":{"SpanMed":100},
+"CTA":{"African":98,"MENA":2},
 "ZAN":{"African":95,"MENA":5},
 
 # Africa additional
